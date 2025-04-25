@@ -21,8 +21,8 @@ This research project explores the development of a hospital-oriented chatbot de
 
 ### How to Run:
  1. Install requirements: pip install -r requirements.txt
-# 2. Start local LLM (e.g. Mistral): ollama run mistral
-# 3. Launch the chatbot: streamlit run app.py
+ 2. Start local LLM (e.g. Mistral): ollama run mistral
+ 3. Launch the chatbot: streamlit run app.py
 
 Suggested README Header:
 """
@@ -43,9 +43,3 @@ A research-driven implementation of a domain-specific chatbot that leverages pat
 ### Screenshots
 - ![Result 1](Result%201.png): Querying for highest blood pressure
 - ![Result 2](Result%202.png): Filtering elderly patients with high cholesterol
-
-### Author
-**Noor Uddin** — noor.cs2@yahoo.com
-"""
-
-# Let me know if you'd like to add paper-style sections like Abstract, Methodology, or Experiment Logs.
